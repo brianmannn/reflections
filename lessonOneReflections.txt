@@ -1,0 +1,4 @@
+git log - view a log of commits
+q - to quit out
+git diff - to compare two commits
+git status - shows most recent commit
